@@ -1,0 +1,2 @@
+# YapayDillerArsivi
+Yapay Diller Arşivi
