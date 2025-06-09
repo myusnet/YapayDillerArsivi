@@ -1,4 +1,5 @@
 <h2>🧠 Yapay Diller Arşivi</h2><br>
+<img src="https://raw.githubusercontent.com/myusnet/YapayDillerArsivi/refs/heads/main/Ekrangorseli.png" alt="img" style="max-width: 100%;">
 <p>📚 Yapay dillerin dilbilimsel yapıları, kültürel etkileri ve yapay zeka ile entegrasyonu üzerine çalışmalar. Tolkien'in dillerinden modern conlang'lara uzanan bir koleksiyon.</p>
 <p>Yapay Diller Arşivi , <span>Baber Bilim</span>'in hazırladığı <span>"Klingon'dan Dothraki'ye: Yapay Dillerin Bilimi"</span> adlı videodan esinlerek hazırlanmıştır.</p>
 <details>
